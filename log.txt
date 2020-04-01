@@ -1,0 +1,2928 @@
+There are total 2 supported mouse buttons
+Allegro5 initialized
+Game begin
+loaded font: pirulen.ttf with size 32
+loaded font: pirulen.ttf with size 24
+loaded font: 04b_09__.ttf with size 36
+loaded font: 04b_09__.ttf with size 24
+Menu scene created
+Change scene from (unnamed) to Menu
+loaded image: aquaman.jpg
+resized image: aquaman.jpg
+loaded audio: Everything I Need.ogg
+played audio (bgm)
+Menu scene initialized
+Game initialized
+Game start event loop
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+107 frame(s) dropped
+Mouse move to (171, 480)
+Mouse move to (184, 463)
+Mouse move to (202, 441)
+Mouse move to (220, 419)
+Mouse move to (237, 401)
+Mouse move to (255, 379)
+Mouse move to (273, 357)
+Mouse move to (289, 336)
+Mouse move to (305, 315)
+Mouse move to (320, 297)
+Mouse move to (332, 282)
+Mouse move to (343, 270)
+Mouse move to (352, 259)
+Mouse move to (359, 248)
+Mouse move to (366, 239)
+Mouse move to (371, 231)
+Mouse move to (374, 224)
+Mouse move to (378, 218)
+Mouse move to (380, 212)
+Mouse move to (382, 207)
+Mouse move to (383, 201)
+Mouse move to (386, 196)
+Mouse move to (388, 190)
+Mouse move to (390, 183)
+Mouse move to (394, 175)
+Mouse move to (399, 168)
+Mouse move to (404, 159)
+Mouse move to (409, 150)
+Mouse move to (414, 142)
+Mouse move to (418, 135)
+Mouse move to (422, 129)
+Mouse move to (424, 123)
+Mouse move to (426, 119)
+Mouse move to (427, 114)
+Mouse move to (428, 110)
+Mouse move to (429, 106)
+Mouse move to (429, 102)
+Mouse move to (430, 98)
+Mouse move to (430, 95)
+Mouse move to (430, 92)
+Mouse move to (430, 90)
+Mouse move to (430, 87)
+Mouse move to (429, 84)
+Mouse move to (428, 81)
+Mouse move to (427, 78)
+Mouse move to (426, 76)
+Mouse move to (425, 73)
+Mouse move to (425, 70)
+Mouse move to (424, 68)
+Mouse move to (424, 67)
+Mouse move to (423, 66)
+Mouse move to (423, 65)
+Mouse move to (422, 65)
+Mouse move to (422, 64)
+Mouse move to (422, 63)
+Mouse move to (421, 62)
+Mouse move to (421, 61)
+Mouse move to (420, 60)
+Mouse move to (419, 60)
+Mouse move to (419, 59)
+Mouse move to (419, 57)
+Mouse move to (418, 56)
+Mouse move to (417, 54)
+Mouse move to (416, 51)
+Mouse move to (415, 49)
+Mouse move to (414, 45)
+Mouse move to (413, 39)
+Mouse move to (412, 35)
+Mouse move to (411, 32)
+Mouse move to (410, 28)
+Mouse move to (409, 24)
+Mouse move to (408, 21)
+Mouse move to (407, 18)
+Mouse move to (406, 16)
+Mouse move to (406, 13)
+Mouse move to (405, 10)
+Mouse move to (405, 8)
+Mouse move to (405, 6)
+Mouse move to (405, 3)
+Mouse move to (405, 2)
+1 frame(s) dropped
+Mouse move to (404, 0)
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Mouse move to (410, 1)
+Mouse move to (429, 19)
+Mouse move to (443, 34)
+Mouse move to (453, 45)
+Mouse move to (459, 54)
+Mouse move to (463, 63)
+Mouse move to (464, 70)
+Mouse move to (464, 78)
+Mouse move to (464, 87)
+Mouse move to (464, 95)
+Mouse move to (460, 104)
+Mouse move to (455, 115)
+Mouse move to (448, 124)
+Mouse move to (442, 133)
+Mouse move to (435, 143)
+Mouse move to (428, 152)
+Mouse move to (422, 161)
+Mouse move to (415, 170)
+Mouse move to (409, 179)
+Mouse move to (405, 185)
+Mouse button 1 down at (405, 185)
+Mouse button 1 up at (405, 185)
+Key with keycode 215 down
+Key with keycode 215 up
+Key with keycode 75 down
+3 frame(s) dropped
+Key with keycode 75 up
+Key with keycode 67 down
+Rules scene created
+Change scene from Menu to Rules
+stop audio (bgm)
+Menu scene destroyed
+loaded image: start-bg.jpg
+resized image: start-bg.jpg
+loaded image: pirate.png
+resized image: pirate.png
+loaded image: Maui.png
+resized image: Maui.png
+loaded image: bad_mask.png
+resized image: bad_mask.png
+loaded image: knife.png
+resized image: knife.png
+loaded image: poison.jpg
+resized image: poison.jpg
+loaded image: heal bottle.png
+resized image: heal bottle.png
+loaded image: baseball.png
+resized image: baseball.png
+loaded image: Rapunzel.png
+resized image: Rapunzel.png
+loaded image: iceball.png
+resized image: iceball.png
+loaded image: player.png
+resized image: player.png
+loaded image: Moana.png
+resized image: Moana.png
+loaded image: Anna.png
+resized image: Anna.png
+Rules scene initialized
+Key with keycode 67 up
+58 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 82 down
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 67 down
+Start scene created
+Change scene from Rules to Start
+Rules scene destroyed
+loaded image: pause1.jpg
+resized image: pause1.jpg
+loaded image: pause2.png
+resized image: pause2.png
+loaded image: Dragon.jpg
+resized image: Dragon.jpg
+loaded image: player.png
+resized image: player.png
+loaded image: pirate.png
+resized image: pirate.png
+loaded image: baseball.png
+resized image: baseball.png
+loaded image: knife.png
+resized image: knife.png
+loaded image: life.png
+resized image: life.png
+loaded audio: Castle on the Hill.ogg
+Start scene initialized
+played audio (bgm)
+Key with keycode 67 up
+93 frame(s) dropped
+4 frame(s) dropped
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 215 down
+Key with keycode 215 up
+Key with keycode 215 down
+Key with keycode 215 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 83 down
+Key with keycode 82 up
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Mouse move to (419, 185)
+Mouse move to (432, 185)
+Mouse move to (449, 187)
+Mouse move to (469, 187)
+Mouse move to (493, 187)
+Mouse move to (517, 187)
+Mouse move to (541, 187)
+Mouse move to (562, 187)
+Mouse move to (583, 186)
+Mouse move to (602, 185)
+Mouse move to (618, 183)
+Mouse move to (637, 180)
+1 frame(s) dropped
+Mouse move to (656, 177)
+Mouse move to (675, 176)
+Mouse move to (691, 175)
+Mouse move to (705, 173)
+Mouse move to (715, 172)
+Mouse move to (722, 172)
+Mouse move to (727, 171)
+Mouse move to (730, 171)
+Mouse move to (731, 171)
+Mouse move to (732, 171)
+Mouse move to (733, 171)
+Mouse move to (734, 171)
+Mouse move to (738, 168)
+Mouse move to (747, 163)
+Mouse move to (760, 156)
+Mouse move to (775, 149)
+Mouse move to (793, 140)
+Mouse move to (796, 15)
+Mouse move to (795, 18)
+Mouse move to (795, 21)
+Mouse move to (794, 24)
+Mouse move to (794, 26)
+Mouse move to (794, 29)
+Mouse move to (794, 32)
+Mouse move to (795, 33)
+Mouse move to (796, 36)
+Mouse move to (797, 38)
+Mouse move to (797, 40)
+Mouse move to (798, 40)
+Mouse move to (798, 41)
+Mouse move to (799, 42)
+Mouse move to (799, 43)
+Mouse move to (799, 44)
+Mouse move to (798, 44)
+Mouse move to (798, 45)
+Mouse move to (797, 45)
+Mouse move to (796, 45)
+Mouse move to (795, 45)
+Mouse move to (794, 45)
+Mouse move to (793, 45)
+Mouse move to (792, 45)
+Mouse move to (791, 45)
+Mouse move to (790, 44)
+Mouse move to (789, 43)
+Mouse move to (788, 43)
+Mouse move to (788, 42)
+Mouse move to (787, 41)
+Mouse move to (786, 41)
+Mouse move to (786, 40)
+Mouse move to (785, 39)
+Mouse move to (784, 38)
+1 frame(s) dropped
+Mouse move to (783, 38)
+Mouse move to (783, 37)
+Mouse move to (782, 36)
+Mouse move to (781, 36)
+Mouse move to (781, 35)
+Mouse move to (780, 35)
+Mouse move to (780, 34)
+Mouse move to (779, 34)
+Mouse button 1 down at (779, 34)
+Pause scene created
+Change scene from Start to Pause
+stop audio (bgm)
+Start scene destroyed
+loaded image: pause bg.png
+resized image: pause bg.png
+loaded image: return1.png
+resized image: return1.png
+loaded image: return2.jpg
+resized image: return2.jpg
+Pause scene initialized
+Mouse button 1 up at (779, 34)
+5 frame(s) dropped
+Mouse move to (770, 37)
+Mouse move to (756, 43)
+Mouse move to (738, 50)
+Mouse move to (720, 58)
+Mouse move to (701, 66)
+Mouse move to (683, 73)
+Mouse move to (667, 80)
+Mouse move to (652, 87)
+Mouse move to (636, 96)
+Mouse move to (620, 105)
+Mouse move to (606, 112)
+Mouse move to (592, 120)
+Mouse move to (580, 127)
+Mouse move to (567, 134)
+Mouse move to (555, 139)
+Mouse move to (543, 145)
+Mouse move to (533, 149)
+Mouse move to (525, 151)
+Mouse move to (519, 156)
+Mouse move to (510, 164)
+Mouse move to (501, 172)
+Mouse move to (492, 178)
+Mouse move to (482, 185)
+Mouse move to (475, 191)
+Mouse move to (467, 198)
+Mouse move to (461, 202)
+Mouse move to (455, 207)
+Mouse move to (451, 212)
+Mouse move to (446, 215)
+Mouse move to (442, 218)
+Mouse move to (439, 221)
+Mouse move to (436, 223)
+Mouse move to (433, 224)
+Mouse move to (432, 225)
+Mouse move to (430, 226)
+Mouse move to (429, 226)
+Mouse move to (428, 226)
+Mouse move to (427, 227)
+Mouse move to (426, 227)
+Mouse button 1 down at (426, 227)
+Menu scene created
+Change scene from Pause to Menu
+Pause scene destroyed
+loaded image: aquaman.jpg
+resized image: aquaman.jpg
+loaded audio: Everything I Need.ogg
+played audio (bgm)
+Menu scene initialized
+Mouse button 1 up at (426, 227)
+Mouse move to (427, 230)
+Mouse move to (429, 235)
+Mouse move to (430, 240)
+Mouse move to (432, 246)
+Mouse move to (435, 253)
+Mouse move to (436, 260)
+Mouse move to (437, 269)
+Mouse move to (438, 277)
+Mouse move to (440, 286)
+Mouse move to (441, 295)
+Mouse move to (441, 303)
+Mouse move to (442, 310)
+Mouse move to (442, 317)
+Mouse move to (442, 322)
+Mouse move to (442, 327)
+Mouse move to (442, 332)
+Mouse move to (442, 337)
+41 frame(s) dropped
+Mouse move to (442, 342)
+Mouse move to (442, 348)
+Mouse move to (442, 353)
+Mouse move to (442, 357)
+Mouse move to (442, 360)
+Mouse move to (442, 364)
+Mouse move to (442, 367)
+Mouse move to (442, 369)
+Mouse move to (442, 372)
+Mouse move to (442, 375)
+Mouse move to (442, 376)
+Mouse move to (442, 378)
+Mouse move to (442, 379)
+Mouse move to (443, 380)
+Mouse move to (444, 380)
+Mouse move to (446, 380)
+Mouse move to (448, 379)
+Mouse move to (453, 376)
+Mouse move to (462, 370)
+Mouse move to (473, 360)
+Mouse move to (488, 347)
+Mouse move to (503, 333)
+Mouse move to (519, 319)
+Mouse move to (535, 303)
+Mouse move to (551, 287)
+Mouse move to (564, 272)
+Mouse move to (576, 257)
+Mouse move to (588, 242)
+Mouse move to (599, 230)
+Mouse move to (610, 217)
+Mouse move to (622, 204)
+Mouse move to (631, 194)
+Mouse move to (639, 184)
+Mouse move to (647, 175)
+Mouse move to (655, 167)
+Mouse move to (661, 161)
+Mouse move to (667, 156)
+Mouse move to (673, 153)
+Mouse move to (679, 149)
+Mouse move to (684, 147)
+Mouse move to (690, 145)
+Mouse move to (696, 142)
+Mouse move to (701, 141)
+Mouse move to (705, 139)
+Mouse move to (709, 137)
+Mouse move to (712, 135)
+Mouse move to (715, 133)
+Mouse move to (718, 132)
+Mouse move to (721, 129)
+Mouse move to (722, 126)
+Mouse move to (724, 123)
+Mouse move to (725, 120)
+Mouse move to (726, 118)
+Mouse move to (727, 114)
+Mouse move to (727, 110)
+Mouse move to (727, 106)
+Mouse move to (727, 104)
+Mouse move to (727, 101)
+Mouse move to (727, 98)
+Mouse move to (727, 96)
+Mouse move to (727, 94)
+Mouse move to (727, 92)
+Mouse move to (728, 90)
+Mouse move to (729, 89)
+Mouse move to (730, 88)
+Mouse move to (731, 87)
+Mouse move to (732, 87)
+Mouse move to (733, 87)
+Mouse move to (734, 86)
+Mouse move to (735, 85)
+Mouse move to (736, 85)
+Mouse move to (736, 84)
+Mouse move to (737, 84)
+Mouse move to (738, 84)
+Mouse move to (739, 84)
+Mouse move to (739, 83)
+Mouse move to (740, 83)
+Mouse move to (741, 82)
+Mouse move to (742, 81)
+Mouse move to (742, 79)
+Mouse move to (743, 77)
+Mouse move to (743, 74)
+Mouse move to (744, 71)
+Mouse move to (745, 69)
+Mouse move to (746, 66)
+Mouse move to (746, 63)
+Mouse move to (747, 61)
+Mouse move to (747, 60)
+Mouse move to (747, 59)
+Mouse move to (747, 58)
+Mouse move to (747, 57)
+Mouse move to (748, 57)
+Mouse move to (748, 56)
+Mouse move to (748, 55)
+Mouse move to (749, 54)
+Mouse move to (749, 53)
+Mouse move to (750, 52)
+Mouse move to (751, 51)
+Mouse move to (752, 51)
+Mouse move to (753, 50)
+Mouse move to (754, 50)
+Mouse move to (754, 49)
+Mouse move to (755, 48)
+Mouse move to (756, 48)
+Mouse move to (757, 48)
+Mouse move to (757, 47)
+Mouse move to (758, 46)
+Mouse move to (759, 46)
+Mouse move to (759, 45)
+Mouse move to (760, 44)
+Mouse move to (761, 43)
+Mouse move to (762, 43)
+Mouse move to (762, 42)
+Mouse move to (763, 41)
+Mouse move to (764, 41)
+Mouse move to (764, 40)
+Mouse move to (764, 39)
+Mouse move to (765, 39)
+Mouse button 1 down at (765, 39)
+Settings scene created
+Change scene from Menu to Settings
+stop audio (bgm)
+Menu scene destroyed
+loaded image: return1.png
+resized image: return1.png
+loaded image: return2.jpg
+resized image: return2.jpg
+loaded image: plus.png
+resized image: plus.png
+loaded image: minus.png
+resized image: minus.png
+loaded image: plus2.png
+resized image: plus2.png
+loaded image: minus2.png
+resized image: minus2.png
+loaded audio: Everything I Need.ogg
+played audio (bgm)
+Setting scene initialized
+Mouse button 1 up at (765, 39)
+Mouse move to (764, 40)
+Mouse move to (761, 41)
+Mouse move to (758, 42)
+Mouse move to (754, 43)
+Mouse move to (749, 46)
+Mouse move to (743, 48)
+Mouse move to (737, 50)
+Mouse move to (730, 54)
+Mouse move to (721, 58)
+Mouse move to (711, 63)
+Mouse move to (700, 68)
+Mouse move to (688, 75)
+Mouse move to (674, 82)
+Mouse move to (660, 89)
+Mouse move to (644, 96)
+Mouse move to (629, 103)
+Mouse move to (611, 110)
+Mouse move to (596, 116)
+Mouse move to (580, 122)
+Mouse move to (570, 126)
+63 frame(s) dropped
+Mouse move to (569, 126)
+Mouse move to (568, 128)
+Mouse move to (566, 131)
+Mouse move to (564, 132)
+Mouse move to (562, 133)
+Mouse move to (561, 134)
+Mouse move to (559, 135)
+Mouse move to (556, 137)
+Mouse move to (553, 138)
+Mouse move to (551, 140)
+Mouse move to (548, 141)
+Mouse move to (545, 142)
+Mouse move to (542, 144)
+Mouse move to (539, 146)
+Mouse move to (537, 148)
+Mouse move to (534, 150)
+Mouse move to (531, 153)
+Mouse move to (528, 156)
+Mouse move to (525, 160)
+Mouse move to (521, 164)
+Mouse move to (518, 169)
+Mouse move to (515, 173)
+Mouse move to (512, 177)
+Mouse move to (508, 182)
+Mouse move to (505, 186)
+Mouse move to (502, 190)
+Mouse move to (499, 193)
+Mouse move to (496, 196)
+Mouse move to (493, 199)
+Mouse move to (490, 202)
+Mouse move to (487, 205)
+Mouse move to (485, 208)
+Mouse move to (483, 211)
+Mouse move to (480, 214)
+Mouse move to (477, 218)
+Mouse move to (473, 222)
+Mouse move to (470, 227)
+Mouse move to (467, 231)
+Mouse move to (464, 235)
+Mouse move to (460, 240)
+Mouse move to (457, 244)
+Mouse move to (454, 248)
+Mouse move to (451, 253)
+Mouse move to (448, 255)
+Mouse move to (444, 260)
+Mouse move to (442, 264)
+Mouse move to (439, 270)
+Mouse move to (435, 276)
+Mouse move to (433, 280)
+Mouse move to (431, 284)
+Mouse move to (429, 287)
+Mouse move to (428, 289)
+Mouse move to (427, 292)
+Mouse move to (426, 295)
+Mouse move to (425, 298)
+Mouse move to (424, 300)
+Mouse move to (423, 303)
+Mouse move to (422, 306)
+Mouse move to (421, 309)
+Mouse move to (420, 311)
+Mouse move to (419, 314)
+Mouse move to (418, 317)
+Mouse move to (417, 320)
+Mouse move to (416, 322)
+Mouse move to (416, 325)
+Mouse move to (415, 327)
+Mouse move to (414, 329)
+Mouse move to (413, 330)
+Mouse move to (413, 331)
+Mouse move to (412, 332)
+Mouse move to (412, 333)
+Mouse move to (412, 334)
+Mouse move to (412, 335)
+Mouse button 1 down at (412, 335)
+2P_Start scene created
+Change scene from Settings to 2P_Start
+stop audio (bgm)
+Settings scene destroyed
+loaded image: pause1.jpg
+resized image: pause1.jpg
+loaded image: pause2.png
+resized image: pause2.png
+loaded image: Dragon.jpg
+resized image: Dragon.jpg
+loaded image: plane.png
+loaded image: plane2.png
+resized image: plane2.png
+loaded image: smallfighter0006.png
+loaded image: knife.png
+resized image: knife.png
+loaded image: baseball.png
+resized image: baseball.png
+loaded image: life.jpg
+resized image: life.jpg
+loaded image: life.jpg
+resized image: life.jpg
+loaded audio: Castle on the Hill.ogg
+Start scene initialized
+played audio (bgm)
+Mouse button 1 up at (412, 335)
+Mouse move to (413, 335)
+Mouse move to (413, 336)
+Mouse move to (415, 338)
+Mouse move to (418, 340)
+Mouse move to (421, 343)
+Mouse move to (424, 346)
+Mouse move to (427, 349)
+Mouse move to (429, 352)
+Mouse move to (432, 355)
+Mouse move to (435, 358)
+Mouse move to (437, 361)
+Mouse move to (440, 364)
+Mouse move to (442, 366)
+Mouse move to (444, 369)
+Mouse move to (446, 371)
+Mouse move to (447, 373)
+Mouse move to (449, 374)
+Mouse move to (451, 376)
+Mouse move to (453, 378)
+Mouse move to (454, 380)
+Mouse move to (455, 382)
+Mouse move to (456, 382)
+Mouse move to (457, 384)
+Mouse move to (457, 385)
+Mouse move to (458, 385)
+Mouse move to (460, 386)
+Mouse move to (461, 387)
+Mouse move to (463, 388)
+Mouse move to (465, 390)
+Mouse move to (467, 390)
+Mouse move to (468, 391)
+Mouse move to (470, 392)
+Mouse move to (472, 393)
+Mouse move to (473, 394)
+Mouse move to (475, 395)
+Mouse move to (477, 395)
+Mouse move to (479, 396)
+Mouse move to (480, 397)
+Mouse move to (481, 398)
+Mouse move to (483, 398)
+Mouse move to (483, 399)
+Mouse move to (484, 399)
+Mouse move to (485, 399)
+Mouse move to (485, 400)
+Mouse move to (486, 400)
+Mouse move to (488, 401)
+Mouse move to (489, 401)
+Mouse move to (492, 402)
+Mouse move to (496, 402)
+Mouse move to (501, 403)
+Mouse move to (506, 403)
+Mouse move to (511, 404)
+Mouse move to (515, 404)
+Mouse move to (518, 404)
+Mouse move to (521, 404)
+Mouse move to (523, 405)
+Mouse move to (526, 405)
+Mouse move to (528, 405)
+Mouse move to (529, 405)
+Mouse move to (531, 405)
+Mouse move to (532, 405)
+Mouse move to (534, 405)
+Mouse move to (536, 405)
+Mouse move to (537, 405)
+103 frame(s) dropped
+Mouse move to (539, 405)
+Mouse move to (540, 405)
+Mouse move to (542, 405)
+Mouse move to (544, 405)
+1 frame(s) dropped
+Mouse move to (545, 405)
+Mouse move to (548, 405)
+Mouse move to (551, 405)
+Mouse move to (553, 405)
+Mouse move to (556, 405)
+Mouse move to (559, 405)
+Mouse move to (560, 404)
+Mouse move to (562, 404)
+Mouse move to (563, 404)
+Mouse move to (564, 404)
+Mouse move to (565, 404)
+Mouse move to (566, 404)
+Mouse move to (567, 404)
+Mouse move to (568, 404)
+Mouse move to (568, 403)
+Mouse move to (569, 403)
+Mouse move to (567, 403)
+Mouse move to (564, 403)
+Mouse move to (559, 403)
+Mouse move to (551, 403)
+Mouse move to (539, 403)
+Mouse move to (526, 404)
+Mouse move to (514, 404)
+Mouse move to (504, 405)
+Mouse move to (494, 406)
+Mouse move to (484, 408)
+Mouse move to (475, 409)
+Mouse move to (468, 410)
+Mouse move to (463, 411)
+Mouse move to (457, 412)
+Mouse move to (453, 414)
+Mouse move to (449, 416)
+Mouse move to (445, 418)
+Mouse move to (441, 419)
+Mouse move to (437, 420)
+Mouse move to (432, 421)
+Mouse move to (426, 422)
+Mouse move to (422, 423)
+Mouse move to (419, 424)
+Mouse move to (415, 425)
+Mouse move to (412, 426)
+Mouse move to (409, 427)
+Mouse move to (406, 428)
+Mouse move to (404, 429)
+Mouse move to (402, 430)
+Mouse move to (401, 430)
+Mouse move to (400, 431)
+Mouse move to (399, 431)
+Mouse move to (399, 432)
+Key with keycode 215 down
+Key with keycode 215 up
+Key with keycode 157 down
+Key with keycode 157 down
+Key with keycode 157 down
+Key with keycode 1 up
+Key with keycode 82 down
+Key with keycode 23 up
+Key with keycode 4 up
+Key with keycode 157 down
+Key with keycode 1 up
+Key with keycode 82 up
+Key with keycode 215 down
+Key with keycode 215 up
+Key with keycode 1 down
+Key with keycode 83 down
+Key with keycode 23 down
+Key with keycode 37 down
+Key with keycode 1 up
+Key with keycode 4 down
+Key with keycode 83 up
+Key with keycode 23 up
+Key with keycode 37 up
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 4 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 4 down
+Key with keycode 1 up
+Key with keycode 82 down
+Key with keycode 4 up
+Key with keycode 23 up
+Key with keycode 17 down
+Key with keycode 17 up
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 19 up
+Key with keycode 17 down
+Key with keycode 1 up
+Key with keycode 82 up
+Key with keycode 17 up
+Key with keycode 83 down
+Key with keycode 1 down
+Key with keycode 83 up
+Key with keycode 23 down
+Key with keycode 1 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 4 down
+Key with keycode 23 up
+Key with keycode 82 down
+Key with keycode 19 down
+Key with keycode 4 up
+Key with keycode 82 up
+Key with keycode 4 down
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 17 down
+Key with keycode 19 up
+Key with keycode 4 up
+Key with keycode 17 up
+Key with keycode 83 up
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 up
+Key with keycode 85 down
+Key with keycode 19 down
+Key with keycode 85 up
+Key with keycode 19 up
+Key with keycode 1 up
+Key with keycode 17 down
+Key with keycode 84 down
+Key with keycode 17 up
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 4 down
+Key with keycode 83 up
+Key with keycode 17 down
+Key with keycode 4 up
+Key with keycode 82 down
+Key with keycode 17 up
+Key with keycode 84 up
+Key with keycode 1 down
+Key with keycode 17 down
+Key with keycode 1 up
+Key with keycode 84 down
+Key with keycode 17 up
+Key with keycode 82 up
+Key with keycode 1 down
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 23 down
+Key with keycode 85 down
+Key with keycode 4 down
+Key with keycode 82 up
+Key with keycode 1 up
+Key with keycode 23 up
+Key with keycode 85 up
+Key with keycode 4 up
+Key with keycode 19 down
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 19 up
+Key with keycode 85 down
+Key with keycode 4 down
+Key with keycode 85 up
+Key with keycode 82 down
+Key with keycode 4 up
+Key with keycode 1 down
+Key with keycode 82 up
+Key with keycode 85 down
+Key with keycode 1 up
+Key with keycode 1 down
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 23 down
+Key with keycode 23 up
+Key with keycode 1 up
+Key with keycode 85 down
+Key with keycode 4 down
+Key with keycode 83 up
+Key with keycode 4 up
+Key with keycode 85 up
+Key with keycode 17 down
+Key with keycode 75 down
+Key with keycode 17 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 82 down
+Key with keycode 75 up
+Key with keycode 19 down
+Key with keycode 19 up
+Key with keycode 4 down
+Key with keycode 82 up
+Key with keycode 4 up
+Key with keycode 17 down
+Key with keycode 17 up
+Key with keycode 1 down
+Key with keycode 1 up
+Key with keycode 4 down
+Key with keycode 4 up
+Key with keycode 1 down
+Key with keycode 1 up
+Key with keycode 84 down
+Key with keycode 17 down
+Key with keycode 17 up
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 1 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 23 down
+Key with keycode 75 up
+Key with keycode 23 up
+Key with keycode 1 up
+Key with keycode 83 down
+Key with keycode 17 down
+Key with keycode 17 up
+Key with keycode 4 down
+Key with keycode 83 up
+Key with keycode 4 up
+Key with keycode 17 down
+Key with keycode 17 up
+Key with keycode 17 down
+Key with keycode 4 down
+Key with keycode 17 up
+Key with keycode 17 down
+Key with keycode 17 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 19 down
+Key with keycode 75 down
+Key with keycode 4 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 4 down
+Key with keycode 75 down
+Key with keycode 19 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 17 down
+Key with keycode 23 down
+Key with keycode 75 up
+1 frame(s) dropped
+Key with keycode 75 down
+Key with keycode 4 up
+Key with keycode 17 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 1 down
+Key with keycode 75 down
+Key with keycode 17 down
+Key with keycode 23 up
+Key with keycode 75 up
+Key with keycode 17 up
+Key with keycode 75 down
+Key with keycode 19 down
+Key with keycode 75 up
+Key with keycode 1 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 1 down
+Key with keycode 19 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 17 down
+Key with keycode 1 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 17 up
+Key with keycode 75 up
+Key with keycode 17 down
+Key with keycode 82 down
+Key with keycode 17 up
+Key with keycode 17 down
+Key with keycode 82 up
+Key with keycode 17 up
+Key with keycode 82 down
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 215 down
+Key with keycode 75 up
+Key with keycode 157 down
+Key with keycode 215 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 1 down
+Key with keycode 75 down
+Key with keycode 5 down
+Key with keycode 23 down
+Key with keycode 75 up
+Key with keycode 4 down
+Key with keycode 5 up
+Key with keycode 75 down
+Key with keycode 23 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 17 down
+Key with keycode 1 up
+Key with keycode 82 down
+Key with keycode 4 up
+Key with keycode 17 up
+Key with keycode 17 down
+Key with keycode 1 down
+Key with keycode 17 up
+Key with keycode 1 up
+Key with keycode 1 down
+Key with keycode 1 up
+Key with keycode 17 down
+Key with keycode 17 up
+Key with keycode 17 down
+Key with keycode 17 up
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 83 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 82 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 75 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 75 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 84 down
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 83 up
+Key with keycode 84 up
+Key with keycode 82 down
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 85 up
+Key with keycode 82 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 215 down
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 215 up
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 1 down
+Key with keycode 85 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 1 up
+Key with keycode 4 up
+Key with keycode 82 up
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 up
+Key with keycode 23 up
+Key with keycode 4 up
+Key with keycode 82 down
+Key with keycode 83 down
+Key with keycode 23 down
+Key with keycode 17 down
+Key with keycode 82 up
+Key with keycode 23 up
+Key with keycode 85 up
+Key with keycode 17 up
+Key with keycode 85 down
+Key with keycode 17 down
+Key with keycode 85 up
+Key with keycode 17 up
+Key with keycode 84 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 85 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 85 up
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 1 down
+Key with keycode 83 down
+Key with keycode 4 down
+Key with keycode 82 up
+Key with keycode 84 down
+Key with keycode 19 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 19 up
+Key with keycode 1 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 23 down
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 23 up
+Key with keycode 83 down
+Key with keycode 23 down
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 4 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 1 down
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 83 up
+Key with keycode 1 up
+Key with keycode 23 up
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 1 down
+Key with keycode 83 up
+Key with keycode 1 up
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 83 up
+Key with keycode 19 down
+Key with keycode 83 down
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 85 down
+Key with keycode 83 up
+Key with keycode 82 up
+Key with keycode 19 up
+Key with keycode 82 down
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 82 up
+Key with keycode 23 up
+Key with keycode 1 up
+Key with keycode 85 down
+Key with keycode 23 down
+Key with keycode 82 down
+Key with keycode 64 down
+Key with keycode 83 up
+Key with keycode 23 up
+Key with keycode 64 up
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 1 up
+Key with keycode 82 down
+Key with keycode 4 down
+Key with keycode 84 up
+Key with keycode 83 up
+Key with keycode 1 down
+Key with keycode 85 down
+Key with keycode 19 up
+Key with keycode 82 up
+Key with keycode 23 down
+Key with keycode 1 up
+Key with keycode 83 down
+Key with keycode 4 up
+Key with keycode 23 up
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 82 up
+Key with keycode 84 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 82 up
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 1 up
+Key with keycode 84 up
+Key with keycode 23 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 19 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 1 down
+Key with keycode 83 down
+Key with keycode 19 up
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 82 down
+Key with keycode 19 down
+Key with keycode 83 up
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 1 up
+Key with keycode 19 up
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 1 down
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 1 up
+Key with keycode 19 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 19 up
+Key with keycode 85 down
+Key with keycode 4 down
+Key with keycode 82 up
+Key with keycode 19 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 4 up
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 1 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 19 up
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 1 up
+Key with keycode 84 down
+Key with keycode 83 up
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 85 up
+Key with keycode 82 up
+Key with keycode 1 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 4 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 23 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 1 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 1 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 84 down
+Key with keycode 4 down
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 23 down
+Key with keycode 83 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 82 down
+Key with keycode 4 up
+Key with keycode 4 down
+Key with keycode 4 up
+Key with keycode 23 up
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 up
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 1 down
+Key with keycode 75 up
+Key with keycode 19 up
+Key with keycode 1 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 83 down
+Key with keycode 75 up
+Key with keycode 19 down
+Key with keycode 19 up
+Key with keycode 19 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 19 up
+Key with keycode 82 down
+Key with keycode 19 down
+Key with keycode 82 up
+Key with keycode 19 up
+Key with keycode 1 down
+Key with keycode 1 up
+Key with keycode 19 down
+Key with keycode 19 up
+Key with keycode 84 down
+Key with keycode 1 down
+Key with keycode 84 up
+Key with keycode 82 down
+Key with keycode 83 down
+Key with keycode 82 up
+Key with keycode 1 up
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 82 up
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 83 up
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 85 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 82 up
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Mouse move to (415, 421)
+Mouse move to (442, 404)
+Mouse move to (469, 387)
+Mouse move to (503, 363)
+Mouse move to (541, 337)
+Mouse move to (578, 310)
+Mouse move to (619, 283)
+Mouse move to (656, 259)
+Mouse move to (693, 237)
+Mouse move to (723, 217)
+Mouse move to (751, 197)
+Mouse move to (775, 178)
+Mouse move to (797, 160)
+Mouse move to (798, 77)
+Mouse move to (793, 75)
+Mouse move to (789, 73)
+Mouse move to (787, 72)
+Mouse move to (784, 71)
+Mouse move to (781, 70)
+Mouse move to (780, 70)
+Mouse move to (777, 70)
+Mouse move to (777, 69)
+Mouse move to (777, 68)
+Mouse move to (776, 65)
+Mouse move to (775, 62)
+Mouse move to (774, 58)
+Mouse move to (772, 53)
+Mouse move to (768, 47)
+Mouse move to (765, 41)
+Mouse move to (761, 35)
+Mouse move to (758, 29)
+Mouse move to (756, 24)
+Mouse move to (753, 20)
+Mouse move to (751, 16)
+Mouse move to (750, 12)
+Mouse move to (749, 9)
+Mouse move to (749, 6)
+Mouse move to (748, 3)
+Mouse move to (748, 1)
+Mouse move to (774, 0)
+Mouse move to (773, 1)
+Mouse move to (773, 2)
+Mouse move to (773, 3)
+Mouse move to (772, 4)
+Mouse move to (772, 6)
+Mouse move to (771, 7)
+Mouse move to (770, 10)
+Mouse move to (769, 13)
+Mouse move to (768, 16)
+Mouse move to (767, 20)
+Mouse move to (766, 23)
+Mouse move to (766, 26)
+Mouse move to (766, 29)
+Mouse move to (766, 32)
+Mouse move to (765, 33)
+Mouse move to (765, 34)
+Mouse move to (764, 35)
+Mouse move to (764, 36)
+Mouse move to (763, 36)
+Mouse move to (763, 37)
+Mouse move to (762, 38)
+Mouse move to (761, 39)
+Mouse move to (760, 40)
+Mouse move to (759, 41)
+Mouse move to (758, 42)
+Mouse move to (758, 43)
+Mouse move to (757, 43)
+Mouse move to (757, 44)
+Mouse move to (757, 45)
+Mouse move to (756, 45)
+Mouse move to (756, 46)
+Mouse move to (756, 47)
+Mouse move to (756, 48)
+Mouse move to (756, 49)
+Mouse move to (756, 50)
+Mouse move to (756, 51)
+Mouse move to (757, 51)
+Mouse move to (757, 52)
+Mouse move to (757, 53)
+Mouse move to (758, 54)
+Mouse move to (758, 55)
+Mouse move to (759, 55)
+Mouse move to (759, 56)
+Mouse move to (760, 57)
+Mouse move to (761, 57)
+Mouse move to (762, 57)
+Mouse move to (763, 57)
+Mouse move to (764, 57)
+Mouse move to (764, 56)
+Mouse move to (765, 56)
+Mouse move to (766, 56)
+Mouse move to (767, 55)
+Mouse move to (767, 54)
+Mouse move to (767, 53)
+Mouse move to (768, 53)
+Mouse move to (768, 52)
+Mouse move to (769, 52)
+Mouse move to (769, 51)
+Mouse move to (769, 50)
+Mouse move to (769, 49)
+Mouse move to (769, 48)
+Mouse move to (769, 47)
+Mouse move to (769, 46)
+Mouse move to (769, 45)
+Mouse move to (769, 44)
+Mouse move to (768, 44)
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 up
+Key with keycode 19 down
+Key with keycode 19 up
+Key with keycode 1 up
+Key with keycode 4 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 up
+Key with keycode 4 up
+Key with keycode 1 up
+Key with keycode 4 down
+Key with keycode 4 up
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 85 up
+Key with keycode 75 down
+Key with keycode 82 up
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 75 down
+Key with keycode 83 up
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 83 up
+Key with keycode 216 down
+Key with keycode 216 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 157 down
+Key with keycode 82 down
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 157 down
+Key with keycode 75 up
+Key with keycode 216 down
+Key with keycode 216 up
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 83 up
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 85 down
+Key with keycode 83 down
+Key with keycode 85 up
+Key with keycode 83 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 218 down
+Key with keycode 216 down
+Key with keycode 216 up
+Key with keycode 218 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 82 down
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 83 down
+Key with keycode 75 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 83 down
+Key with keycode 75 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 83 down
+Key with keycode 75 up
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 82 down
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Win scene created
+Change scene from 2P_Start to Win
+stop audio (bgm)
+2P_Start scene destroyed
+loaded image: Jumanji.jpg
+resized image: Jumanji.jpg
+loaded image: return1.png
+resized image: return1.png
+loaded image: return2.jpg
+resized image: return2.jpg
+Win scene initialized
+11 frame(s) dropped
+Key with keycode 75 up
+Mouse move to (757, 48)
+Mouse move to (743, 53)
+Mouse move to (731, 55)
+Mouse move to (721, 56)
+Mouse move to (712, 58)
+Mouse move to (705, 59)
+Mouse move to (698, 60)
+Mouse move to (693, 61)
+Mouse move to (687, 63)
+Mouse move to (683, 65)
+Mouse move to (679, 69)
+Mouse move to (673, 71)
+Mouse move to (667, 74)
+Mouse move to (661, 78)
+Mouse move to (655, 83)
+Mouse move to (649, 89)
+Mouse move to (643, 97)
+Mouse move to (638, 106)
+Mouse move to (634, 115)
+Mouse move to (630, 124)
+Mouse move to (628, 131)
+Mouse move to (626, 138)
+Mouse move to (625, 143)
+Mouse move to (624, 149)
+Mouse move to (623, 156)
+Mouse move to (622, 164)
+Mouse move to (619, 173)
+Mouse move to (615, 183)
+Mouse move to (610, 196)
+Mouse move to (603, 208)
+Mouse move to (596, 220)
+Mouse move to (589, 233)
+Mouse move to (583, 243)
+Mouse move to (574, 261)
+Mouse move to (563, 271)
+Mouse move to (553, 279)
+Mouse move to (544, 286)
+Mouse move to (537, 291)
+Mouse move to (529, 294)
+Mouse move to (522, 298)
+Mouse move to (513, 302)
+Mouse move to (504, 306)
+Mouse move to (495, 309)
+Mouse move to (486, 313)
+Mouse move to (479, 316)
+Mouse move to (473, 318)
+Mouse move to (468, 320)
+Mouse move to (464, 322)
+Mouse move to (459, 324)
+Mouse move to (455, 328)
+Mouse move to (451, 331)
+Mouse move to (448, 334)
+Mouse move to (445, 337)
+Mouse move to (442, 338)
+Mouse move to (439, 340)
+Mouse move to (438, 341)
+Mouse move to (437, 342)
+Mouse move to (436, 343)
+Mouse move to (435, 343)
+Mouse move to (434, 343)
+Mouse move to (433, 344)
+Mouse move to (433, 345)
+Mouse move to (432, 345)
+Mouse move to (430, 346)
+Mouse move to (429, 347)
+Mouse move to (426, 349)
+Mouse move to (422, 352)
+Mouse move to (417, 355)
+Mouse move to (413, 359)
+Mouse move to (410, 361)
+Mouse move to (407, 363)
+Mouse move to (405, 365)
+Mouse move to (402, 367)
+Mouse move to (400, 369)
+Mouse move to (398, 371)
+Mouse move to (397, 372)
+Mouse move to (396, 372)
+Mouse move to (395, 373)
+Mouse move to (394, 374)
+Mouse move to (393, 375)
+Mouse move to (392, 376)
+Mouse move to (392, 377)
+Mouse move to (391, 377)
+Mouse move to (391, 378)
+Mouse move to (391, 377)
+Mouse move to (391, 375)
+Mouse move to (391, 373)
+Mouse move to (392, 369)
+Mouse move to (393, 362)
+Mouse move to (395, 353)
+Mouse move to (398, 343)
+Mouse move to (399, 334)
+Mouse move to (400, 325)
+Mouse move to (402, 318)
+Mouse move to (403, 311)
+Mouse move to (404, 306)
+Mouse move to (405, 300)
+Mouse move to (406, 295)
+Mouse move to (406, 291)
+Mouse move to (407, 287)
+Mouse move to (407, 284)
+Mouse move to (408, 279)
+Mouse move to (409, 273)
+Mouse move to (409, 268)
+Mouse move to (410, 263)
+Mouse move to (410, 259)
+Mouse move to (411, 256)
+Mouse move to (411, 253)
+Mouse move to (411, 252)
+Mouse move to (411, 251)
+Mouse move to (411, 250)
+Mouse move to (412, 250)
+Mouse move to (412, 249)
+Mouse move to (412, 250)
+Mouse move to (412, 252)
+Mouse move to (412, 254)
+Mouse move to (411, 257)
+Mouse move to (410, 262)
+Mouse move to (408, 269)
+Mouse move to (405, 278)
+Mouse move to (403, 284)
+Mouse move to (405, 284)
+Mouse move to (407, 283)
+Mouse button 1 down at (407, 283)
+Menu scene created
+Change scene from Win to Menu
+Win scene destroyed
+loaded image: aquaman.jpg
+resized image: aquaman.jpg
+loaded audio: Everything I Need.ogg
+played audio (bgm)
+Menu scene initialized
+Mouse button 1 up at (407, 283)
+42 frame(s) dropped
+Mouse move to (416, 280)
+Mouse move to (430, 274)
+Mouse move to (445, 267)
+Mouse move to (463, 258)
+Mouse move to (483, 246)
+Mouse move to (506, 234)
+Mouse move to (525, 225)
+Mouse move to (545, 215)
+Mouse move to (563, 207)
+Mouse move to (579, 200)
+Mouse move to (592, 193)
+Mouse move to (606, 186)
+Mouse move to (620, 179)
+Mouse move to (632, 174)
+Mouse move to (645, 167)
+Mouse move to (657, 160)
+Mouse move to (668, 155)
+Mouse move to (677, 150)
+Mouse move to (684, 146)
+Mouse move to (690, 143)
+Mouse move to (694, 141)
+Mouse move to (697, 139)
+Mouse move to (698, 138)
+Mouse move to (700, 137)
+Mouse move to (701, 136)
+Mouse move to (702, 136)
+Mouse move to (703, 135)
+Mouse move to (704, 134)
+Mouse move to (704, 133)
+Mouse move to (705, 133)
+Mouse move to (707, 132)
+Mouse move to (710, 130)
+Mouse move to (712, 127)
+Mouse move to (715, 124)
+Mouse move to (719, 120)
+Mouse move to (721, 116)
+Mouse move to (723, 110)
+Mouse move to (725, 103)
+Mouse move to (728, 96)
+Mouse move to (730, 89)
+Mouse move to (732, 81)
+Mouse move to (734, 74)
+Mouse move to (735, 69)
+Mouse move to (736, 64)
+Mouse move to (736, 60)
+1 frame(s) dropped
+Mouse move to (737, 56)
+Mouse move to (738, 53)
+Mouse move to (738, 51)
+1 frame(s) dropped
+Mouse move to (739, 49)
+Mouse move to (739, 47)
+Mouse move to (739, 46)
+Mouse move to (739, 45)
+Mouse move to (740, 45)
+Mouse move to (740, 44)
+Mouse move to (741, 44)
+Mouse move to (741, 43)
+Mouse move to (742, 42)
+Mouse move to (743, 42)
+Mouse move to (744, 42)
+Mouse move to (745, 41)
+Mouse move to (746, 40)
+Mouse move to (747, 39)
+Mouse move to (748, 39)
+Mouse move to (749, 39)
+Mouse move to (750, 39)
+Mouse move to (750, 38)
+Mouse move to (751, 38)
+Mouse move to (751, 37)
+Mouse move to (752, 37)
+Mouse move to (753, 37)
+Mouse move to (754, 37)
+Mouse move to (755, 37)
+Mouse move to (756, 37)
+Mouse move to (757, 36)
+Mouse move to (758, 36)
+Mouse move to (759, 36)
+Mouse move to (760, 36)
+Mouse move to (761, 35)
+Mouse move to (762, 35)
+Mouse move to (763, 35)
+Mouse move to (763, 34)
+Mouse move to (764, 34)
+Mouse move to (765, 34)
+Mouse button 1 down at (765, 34)
+Settings scene created
+Change scene from Menu to Settings
+stop audio (bgm)
+Menu scene destroyed
+loaded image: return1.png
+resized image: return1.png
+loaded image: return2.jpg
+resized image: return2.jpg
+loaded image: plus.png
+resized image: plus.png
+loaded image: minus.png
+resized image: minus.png
+loaded image: plus2.png
+resized image: plus2.png
+loaded image: minus2.png
+resized image: minus2.png
+loaded audio: Everything I Need.ogg
+played audio (bgm)
+Setting scene initialized
+Mouse button 1 up at (765, 34)
+Mouse move to (758, 35)
+Mouse move to (746, 39)
+Mouse move to (732, 43)
+Mouse move to (717, 47)
+Mouse move to (700, 51)
+Mouse move to (683, 55)
+Mouse move to (664, 60)
+Mouse move to (644, 65)
+Mouse move to (621, 70)
+Mouse move to (601, 74)
+Mouse move to (581, 79)
+Mouse move to (561, 83)
+Mouse move to (541, 88)
+Mouse move to (524, 92)
+Mouse move to (509, 96)
+Mouse move to (495, 102)
+Mouse move to (483, 107)
+Mouse move to (472, 113)
+Mouse move to (461, 118)
+Mouse move to (452, 123)
+Mouse move to (443, 127)
+Mouse move to (436, 131)
+Mouse move to (430, 134)
+Mouse move to (424, 138)
+Mouse move to (418, 141)
+Mouse move to (416, 144)
+Mouse move to (413, 146)
+Mouse move to (410, 148)
+Mouse move to (408, 150)
+Mouse move to (406, 151)
+Mouse move to (405, 153)
+Mouse move to (403, 156)
+Mouse move to (401, 159)
+Mouse move to (399, 161)
+Mouse move to (397, 165)
+Mouse move to (395, 170)
+Mouse move to (394, 173)
+Mouse move to (393, 177)
+Mouse move to (392, 180)
+Mouse move to (391, 183)
+Mouse move to (390, 186)
+Mouse move to (389, 188)
+Mouse move to (388, 192)
+Mouse move to (387, 196)
+Mouse move to (386, 200)
+Mouse move to (385, 204)
+Mouse move to (385, 208)
+Mouse move to (384, 210)
+Mouse move to (383, 213)
+Mouse move to (382, 216)
+Mouse move to (381, 219)
+Mouse move to (381, 220)
+Mouse move to (380, 222)
+Mouse move to (380, 223)
+Mouse move to (379, 224)
+Mouse move to (379, 225)
+Mouse move to (378, 225)
+Mouse move to (378, 226)
+Mouse move to (377, 226)
+Mouse move to (376, 227)
+Mouse move to (376, 228)
+Mouse move to (375, 228)
+Mouse move to (374, 228)
+Mouse move to (373, 229)
+Mouse move to (372, 229)
+Mouse move to (371, 230)
+Mouse move to (370, 230)
+Mouse move to (369, 230)
+Mouse move to (369, 231)
+Mouse move to (368, 231)
+Mouse move to (367, 231)
+Mouse move to (366, 232)
+Mouse move to (365, 233)
+Mouse move to (364, 233)
+Mouse move to (363, 233)
+Mouse move to (362, 233)
+72 frame(s) dropped
+Mouse move to (362, 234)
+Mouse move to (361, 234)
+Mouse move to (360, 234)
+Mouse move to (359, 234)
+Mouse move to (359, 235)
+Mouse move to (358, 235)
+Mouse move to (357, 235)
+Mouse move to (356, 235)
+5 frame(s) dropped
+Mouse move to (355, 235)
+Mouse move to (354, 235)
+Mouse move to (353, 235)
+Mouse move to (352, 235)
+Mouse move to (351, 235)
+Mouse move to (350, 235)
+Mouse move to (349, 235)
+Mouse button 1 down at (349, 235)
+Rules scene created
+Change scene from Settings to Rules
+stop audio (bgm)
+Settings scene destroyed
+loaded image: start-bg.jpg
+resized image: start-bg.jpg
+loaded image: pirate.png
+resized image: pirate.png
+loaded image: Maui.png
+resized image: Maui.png
+loaded image: bad_mask.png
+resized image: bad_mask.png
+loaded image: knife.png
+resized image: knife.png
+loaded image: poison.jpg
+resized image: poison.jpg
+loaded image: heal bottle.png
+resized image: heal bottle.png
+loaded image: baseball.png
+resized image: baseball.png
+loaded image: Rapunzel.png
+resized image: Rapunzel.png
+loaded image: iceball.png
+resized image: iceball.png
+loaded image: player.png
+resized image: player.png
+loaded image: Moana.png
+resized image: Moana.png
+loaded image: Anna.png
+resized image: Anna.png
+Rules scene initialized
+Mouse button 1 up at (349, 235)
+45 frame(s) dropped
+Mouse move to (346, 241)
+Mouse move to (340, 251)
+Mouse move to (333, 264)
+Mouse move to (326, 277)
+Mouse move to (319, 290)
+Mouse move to (313, 302)
+Mouse move to (310, 312)
+Mouse move to (306, 323)
+Mouse move to (303, 333)
+Mouse move to (302, 342)
+Mouse move to (302, 349)
+Mouse move to (302, 356)
+Mouse move to (302, 361)
+Mouse move to (304, 367)
+Mouse move to (308, 374)
+Mouse move to (313, 381)
+Mouse move to (319, 389)
+Mouse move to (325, 395)
+Mouse move to (332, 401)
+Mouse move to (338, 408)
+Mouse move to (342, 412)
+Mouse move to (345, 416)
+Mouse move to (348, 419)
+Mouse move to (350, 422)
+Mouse move to (351, 425)
+Mouse move to (352, 428)
+Mouse move to (352, 430)
+Mouse move to (352, 432)
+Key with keycode 67 down
+Start scene created
+Change scene from Rules to Start
+Rules scene destroyed
+loaded image: pause1.jpg
+resized image: pause1.jpg
+loaded image: pause2.png
+resized image: pause2.png
+loaded image: Dragon.jpg
+resized image: Dragon.jpg
+loaded image: player.png
+resized image: player.png
+loaded image: pirate.png
+resized image: pirate.png
+loaded image: baseball.png
+resized image: baseball.png
+loaded image: knife.png
+resized image: knife.png
+loaded image: life.png
+resized image: life.png
+loaded audio: Castle on the Hill.ogg
+Start scene initialized
+played audio (bgm)
+Key with keycode 67 up
+80 frame(s) dropped
+Key with keycode 216 down
+Key with keycode 216 up
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 82 up
+Key with keycode 84 up
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 82 up
+Key with keycode 157 down
+Key with keycode 75 up
+Key with keycode 216 down
+Key with keycode 216 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 75 down
+Key with keycode 82 up
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 82 up
+Key with keycode 84 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 82 down
+Key with keycode 83 up
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 75 up
+1 to 2 scene created
+Change scene from Start to 1 to 2
+stop audio (bgm)
+Start scene destroyed
+loaded image: pause bg.png
+resized image: pause bg.png
+loaded image: return1.png
+resized image: return1.png
+loaded image: return2.jpg
+resized image: return2.jpg
+1 to 2 scene initialized
+Key with keycode 83 down
+8 frame(s) dropped
+Key with keycode 83 up
+Mouse move to (360, 415)
+Mouse move to (373, 392)
+Mouse move to (383, 370)
+Mouse move to (392, 351)
+Mouse move to (399, 335)
+Mouse move to (405, 322)
+Mouse move to (409, 309)
+Mouse move to (413, 299)
+Mouse move to (415, 290)
+Mouse move to (417, 282)
+Mouse move to (418, 275)
+Mouse move to (419, 269)
+Mouse move to (419, 264)
+Mouse move to (419, 259)
+Mouse move to (419, 254)
+Mouse move to (419, 250)
+Mouse move to (419, 246)
+Mouse move to (419, 244)
+Mouse move to (419, 241)
+Mouse move to (419, 239)
+Mouse move to (419, 238)
+Mouse move to (419, 236)
+Mouse move to (419, 234)
+Mouse move to (418, 233)
+Mouse move to (418, 231)
+Mouse move to (418, 230)
+Mouse move to (418, 229)
+Mouse move to (418, 228)
+Mouse move to (417, 228)
+Mouse move to (417, 227)
+Mouse move to (417, 226)
+Mouse move to (417, 227)
+Mouse button 1 down at (417, 227)
+Level2 scene created
+Change scene from 1 to 2 to Level 2
+1 to 2 scene destroyed
+loaded image: pause1.jpg
+resized image: pause1.jpg
+loaded image: pause2.png
+resized image: pause2.png
+loaded image: iceland.jpg
+resized image: iceland.jpg
+loaded image: Moana.png
+resized image: Moana.png
+loaded image: smallfighter0006.png
+loaded image: Maui.png
+resized image: Maui.png
+loaded image: Rapunzel.png
+resized image: Rapunzel.png
+loaded image: life.png
+resized image: life.png
+loaded audio: Where No one Goes.ogg
+Start scene initialized
+played audio (bgm)
+Mouse button 1 up at (417, 227)
+61 frame(s) dropped
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 82 up
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 75 down
+Key with keycode 83 up
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 75 down
+Key with keycode 82 up
+Key with keycode 75 up
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 75 down
+Key with keycode 83 up
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 75 down
+Key with keycode 82 up
+2 to 3 scene created
+Change scene from Level 2 to 2 to 3
+stop audio (bgm)
+Level 2 scene destroyed
+loaded image: pause bg.png
+resized image: pause bg.png
+loaded image: return1.png
+resized image: return1.png
+loaded image: return2.jpg
+resized image: return2.jpg
+2 to 3 scene initialized
+Key with keycode 83 down
+Key with keycode 75 up
+8 frame(s) dropped
+Key with keycode 83 up
+Mouse button 1 down at (417, 227)
+Level3 scene created
+Change scene from 2 to 3 to Level 3
+2 to 3 scene destroyed
+loaded image: pause1.jpg
+resized image: pause1.jpg
+loaded image: pause2.png
+resized image: pause2.png
+loaded image: Walter Mitty.jpg
+resized image: Walter Mitty.jpg
+loaded image: Anna.png
+resized image: Anna.png
+loaded image: bad_mask.png
+resized image: bad_mask.png
+loaded image: Hans.png
+resized image: Hans.png
+loaded image: heal bottle.png
+resized image: heal bottle.png
+loaded image: poison.jpg
+resized image: poison.jpg
+loaded image: iceball.png
+resized image: iceball.png
+loaded image: life.png
+resized image: life.png
+loaded audio: Step Out.ogg
+Start scene initialized
+played audio (bgm)
+Mouse button 1 up at (417, 227)
+Mouse button 1 down at (417, 227)
+Mouse button 1 up at (417, 227)
+86 frame(s) dropped
+Mouse move to (417, 228)
+Mouse move to (417, 229)
+Mouse move to (417, 230)
+Mouse move to (417, 231)
+Mouse move to (416, 231)
+Mouse move to (415, 232)
+Mouse move to (415, 234)
+Mouse move to (413, 238)
+Mouse move to (410, 245)
+Mouse move to (406, 254)
+Mouse move to (402, 264)
+Mouse move to (398, 275)
+1 frame(s) dropped
+Mouse move to (396, 284)
+Mouse move to (393, 292)
+Mouse move to (392, 299)
+Mouse move to (391, 305)
+Mouse move to (390, 309)
+Mouse move to (390, 311)
+Mouse move to (389, 313)
+Mouse move to (389, 314)
+Mouse move to (389, 315)
+Mouse move to (389, 316)
+Mouse move to (388, 316)
+Mouse move to (388, 317)
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 82 up
+Key with keycode 83 up
+Key with keycode 84 down
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 84 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 83 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 82 up
+Key with keycode 84 up
+Key with keycode 82 down
+Gameover scene created
+Change scene from Level 3 to Gameover
+stop audio (bgm)
+Level 3 scene destroyed
+loaded image: pause bg.png
+resized image: pause bg.png
+loaded image: return1.png
+resized image: return1.png
+loaded image: return2.jpg
+resized image: return2.jpg
+loaded image: try_again.jpg
+resized image: try_again.jpg
+Pause scene initialized
+Key with keycode 82 up
+11 frame(s) dropped
+Mouse move to (404, 303)
+Mouse move to (426, 283)
+Mouse move to (451, 262)
+Mouse move to (483, 234)
+Mouse move to (518, 205)
+Mouse move to (556, 181)
+Mouse move to (595, 159)
+Mouse move to (634, 142)
+Mouse move to (673, 127)
+Mouse move to (713, 116)
+Mouse move to (752, 110)
+Mouse move to (794, 108)
+Mouse move to (799, 57)
+Mouse move to (792, 54)
+Mouse move to (786, 53)
+Mouse move to (782, 52)
+Mouse move to (780, 51)
+Mouse move to (778, 51)
+Mouse move to (776, 51)
+Mouse move to (776, 50)
+Mouse move to (775, 50)
+Mouse move to (774, 50)
+Mouse move to (774, 49)
+Mouse move to (773, 48)
+Mouse move to (772, 48)
+Mouse move to (772, 47)
+Mouse move to (772, 46)
+Mouse move to (772, 45)
+Mouse move to (772, 44)
+Mouse move to (772, 43)
+Mouse move to (773, 42)
+Mouse move to (773, 41)
+Mouse move to (774, 41)
+Mouse move to (775, 40)
+Mouse move to (776, 39)
+Mouse move to (778, 38)
+Mouse move to (781, 36)
+Mouse move to (784, 34)
+Mouse move to (788, 32)
+Mouse move to (790, 30)
+Mouse move to (793, 27)
+Mouse move to (796, 25)
+Mouse move to (799, 23)
+Window close button clicked
+Game end
+Gameover scene destroyed
