@@ -1,0 +1,431 @@
+There are total 5 supported mouse buttons
+Allegro5 initialized
+Game begin
+loaded font: pirulen.ttf with size 32
+loaded font: pirulen.ttf with size 24
+loaded font: 04b_09__.ttf with size 36
+loaded font: 04b_09__.ttf with size 24
+Menu scene created
+Change scene from (unnamed) to Menu
+loaded image: aquaman.jpg
+resized image: aquaman.jpg
+loaded audio: Everything I Need.ogg
+played audio (bgm)
+Menu scene initialized
+Game initialized
+Game start event loop
+Mouse move to (146, 58)
+Mouse move to (166, 49)
+Mouse move to (176, 45)
+Mouse move to (178, 44)
+Mouse move to (182, 42)
+Mouse move to (185, 40)
+Mouse move to (188, 38)
+Mouse move to (191, 37)
+Mouse move to (193, 36)
+Mouse move to (195, 34)
+Mouse move to (198, 34)
+Mouse move to (201, 33)
+Mouse move to (202, 31)
+Mouse move to (204, 30)
+Mouse move to (207, 29)
+Mouse move to (209, 28)
+Mouse move to (210, 26)
+Mouse move to (212, 26)
+Mouse move to (215, 25)
+Mouse move to (216, 24)
+Mouse move to (217, 22)
+Mouse move to (219, 22)
+Mouse move to (221, 21)
+Mouse move to (222, 20)
+Mouse move to (224, 18)
+Mouse move to (225, 17)
+Mouse move to (226, 17)
+Mouse move to (228, 16)
+Mouse move to (230, 14)
+Mouse move to (231, 13)
+Mouse move to (232, 12)
+Mouse move to (234, 11)
+Mouse move to (236, 9)
+Mouse move to (241, 6)
+Mouse move to (242, 5)
+Mouse move to (244, 4)
+Mouse move to (245, 2)
+Mouse move to (246, 2)
+Mouse move to (248, 0)
+49 frame(s) dropped
+Mouse move to (679, 9)
+Mouse move to (661, 34)
+Mouse move to (657, 41)
+Mouse move to (652, 47)
+Mouse move to (649, 53)
+Mouse move to (644, 59)
+Mouse move to (639, 67)
+Mouse move to (634, 73)
+Mouse move to (630, 79)
+Mouse move to (627, 84)
+Mouse move to (617, 98)
+Mouse move to (612, 104)
+Mouse move to (609, 110)
+Mouse move to (604, 116)
+Mouse move to (601, 120)
+Mouse move to (597, 124)
+Mouse move to (591, 133)
+Mouse move to (588, 136)
+Mouse move to (586, 139)
+Mouse move to (583, 142)
+Mouse move to (581, 145)
+Mouse move to (580, 146)
+Mouse move to (578, 148)
+Mouse move to (572, 153)
+Mouse move to (571, 154)
+Mouse move to (570, 155)
+Mouse move to (568, 156)
+Mouse move to (568, 157)
+Mouse move to (567, 157)
+Mouse move to (566, 157)
+Mouse move to (566, 158)
+Mouse move to (565, 159)
+Mouse move to (564, 159)
+Mouse move to (564, 160)
+Mouse move to (563, 160)
+Mouse move to (563, 161)
+Mouse move to (562, 162)
+Mouse move to (561, 162)
+Mouse move to (561, 163)
+Mouse move to (560, 164)
+Mouse move to (558, 165)
+Mouse move to (558, 167)
+Mouse move to (557, 168)
+Mouse move to (555, 169)
+Mouse move to (555, 170)
+Mouse move to (553, 171)
+Mouse move to (552, 173)
+Mouse move to (550, 175)
+Mouse move to (550, 177)
+Mouse move to (548, 178)
+Mouse move to (546, 180)
+Mouse move to (545, 182)
+Mouse move to (543, 185)
+Mouse move to (541, 187)
+Mouse move to (539, 189)
+Mouse move to (537, 191)
+Mouse move to (536, 194)
+Mouse move to (534, 197)
+Mouse move to (531, 201)
+Mouse move to (529, 204)
+Mouse move to (527, 206)
+Mouse move to (525, 209)
+Mouse move to (520, 217)
+Mouse move to (518, 220)
+Mouse move to (516, 224)
+Mouse move to (513, 230)
+Mouse move to (511, 234)
+Mouse move to (509, 237)
+Mouse move to (507, 241)
+Mouse move to (503, 247)
+Mouse move to (501, 251)
+Mouse move to (499, 255)
+Mouse move to (497, 259)
+Mouse move to (495, 265)
+Mouse move to (493, 271)
+Mouse move to (491, 275)
+Mouse move to (484, 290)
+Mouse move to (483, 296)
+Mouse move to (481, 300)
+Mouse move to (479, 307)
+Mouse move to (476, 311)
+Mouse move to (476, 315)
+Mouse move to (473, 320)
+Mouse move to (471, 326)
+Mouse move to (468, 334)
+Mouse move to (467, 340)
+Mouse move to (465, 345)
+Mouse move to (464, 349)
+Mouse move to (460, 361)
+Mouse move to (456, 372)
+Mouse move to (455, 375)
+Mouse move to (454, 378)
+Mouse move to (453, 382)
+Mouse move to (452, 385)
+Mouse move to (448, 394)
+Mouse move to (448, 396)
+Mouse move to (447, 400)
+Mouse move to (446, 402)
+Mouse move to (446, 404)
+Mouse move to (445, 407)
+Mouse move to (444, 410)
+Mouse move to (444, 411)
+Mouse move to (442, 415)
+Mouse move to (442, 417)
+Mouse move to (441, 419)
+Mouse move to (440, 422)
+Mouse move to (440, 424)
+Mouse move to (439, 428)
+Mouse move to (439, 430)
+Mouse move to (439, 432)
+Mouse move to (439, 433)
+Mouse move to (438, 434)
+Mouse move to (438, 436)
+Mouse move to (438, 437)
+Mouse move to (438, 438)
+Mouse move to (437, 439)
+Mouse move to (437, 440)
+Mouse move to (437, 441)
+Mouse move to (437, 442)
+Mouse move to (437, 443)
+Mouse move to (437, 444)
+Mouse move to (436, 444)
+Mouse move to (436, 445)
+Mouse move to (436, 446)
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+Mouse button 1 down at (436, 446)
+Mouse button 1 up at (436, 446)
+Key with keycode 67 down
+Rules scene created
+Change scene from Menu to Rules
+stop audio (bgm)
+Menu scene destroyed
+loaded image: start-bg.jpg
+resized image: start-bg.jpg
+loaded image: pirate.png
+resized image: pirate.png
+loaded image: Maui.png
+resized image: Maui.png
+loaded image: bad_mask.png
+resized image: bad_mask.png
+loaded image: knife.png
+resized image: knife.png
+loaded image: poison.jpg
+resized image: poison.jpg
+loaded image: heal bottle.png
+resized image: heal bottle.png
+loaded image: baseball.png
+resized image: baseball.png
+loaded image: Rapunzel.png
+resized image: Rapunzel.png
+loaded image: iceball.png
+resized image: iceball.png
+loaded image: player.png
+resized image: player.png
+loaded image: Moana.png
+resized image: Moana.png
+loaded image: Anna.png
+resized image: Anna.png
+Rules scene initialized
+Key with keycode 67 up
+52 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 216 down
+Key with keycode 216 up
+Key with keycode 67 down
+Start scene created
+Change scene from Rules to Start
+Rules scene destroyed
+loaded image: pause1.jpg
+resized image: pause1.jpg
+loaded image: pause2.png
+resized image: pause2.png
+loaded image: Dragon.jpg
+resized image: Dragon.jpg
+loaded image: player.png
+resized image: player.png
+loaded image: pirate.png
+resized image: pirate.png
+loaded image: baseball.png
+resized image: baseball.png
+loaded image: knife.png
+resized image: knife.png
+loaded image: life.png
+resized image: life.png
+loaded audio: Castle on the Hill.ogg
+Start scene initialized
+played audio (bgm)
+Key with keycode 67 up
+72 frame(s) dropped
+5 frame(s) dropped
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 82 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 75 down
+Key with keycode 75 up
+1 to 2 scene created
+Change scene from Start to 1 to 2
+stop audio (bgm)
+Start scene destroyed
+loaded image: pause bg.png
+resized image: pause bg.png
+loaded image: return1.png
+resized image: return1.png
+loaded image: return2.jpg
+resized image: return2.jpg
+1 to 2 scene initialized
+7 frame(s) dropped
+Mouse move to (438, 438)
+Mouse move to (442, 426)
+Mouse move to (445, 416)
+Mouse move to (449, 405)
+Mouse move to (453, 398)
+Mouse move to (457, 392)
+Mouse move to (459, 388)
+Mouse move to (460, 385)
+Mouse move to (460, 383)
+Mouse move to (461, 382)
+Mouse move to (461, 381)
+Mouse move to (462, 378)
+Mouse move to (462, 374)
+Mouse move to (463, 369)
+Mouse move to (464, 362)
+Mouse move to (467, 353)
+Mouse move to (471, 341)
+Mouse move to (475, 327)
+Mouse move to (480, 312)
+Mouse move to (486, 298)
+Mouse move to (490, 286)
+Mouse move to (493, 277)
+Mouse move to (495, 272)
+Mouse move to (496, 268)
+Mouse move to (497, 265)
+Mouse move to (497, 264)
+Mouse move to (498, 263)
+Mouse move to (498, 262)
+Mouse move to (498, 261)
+Mouse move to (497, 260)
+Mouse move to (497, 259)
+Mouse move to (496, 259)
+Mouse move to (496, 257)
+Mouse move to (495, 255)
+Mouse move to (495, 253)
+Mouse move to (494, 250)
+Mouse move to (494, 247)
+Mouse move to (494, 245)
+Mouse move to (493, 242)
+Mouse move to (493, 240)
+Mouse move to (492, 239)
+Mouse move to (492, 238)
+Mouse move to (492, 237)
+Mouse move to (492, 236)
+Mouse move to (492, 235)
+Mouse move to (492, 234)
+Mouse move to (492, 233)
+Mouse button 1 down at (492, 233)
+Level2 scene created
+Change scene from 1 to 2 to Level 2
+1 to 2 scene destroyed
+loaded image: pause1.jpg
+resized image: pause1.jpg
+loaded image: pause2.png
+resized image: pause2.png
+loaded image: iceland.jpg
+resized image: iceland.jpg
+loaded image: Moana.png
+resized image: Moana.png
+loaded image: smallfighter0006.png
+loaded image: Maui.png
+resized image: Maui.png
+loaded image: Rapunzel.png
+resized image: Rapunzel.png
+loaded image: life.png
+resized image: life.png
+loaded audio: Where No one Goes.ogg
+Start scene initialized
+played audio (bgm)
+Mouse button 1 up at (492, 233)
+46 frame(s) dropped
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 84 down
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 84 up
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 75 down
+Key with keycode 82 up
+Key with keycode 75 up
+Key with keycode 82 down
+2 to 3 scene created
+Change scene from Level 2 to 2 to 3
+stop audio (bgm)
+Level 2 scene destroyed
+loaded image: pause bg.png
+resized image: pause bg.png
+loaded image: return1.png
+resized image: return1.png
+loaded image: return2.jpg
+resized image: return2.jpg
+2 to 3 scene initialized
+5 frame(s) dropped
+Key with keycode 82 up
+Mouse move to (493, 232)
+Mouse move to (495, 232)
+Mouse move to (497, 231)
+Mouse move to (500, 231)
+Mouse move to (506, 228)
+Mouse move to (510, 227)
+Mouse move to (525, 222)
+Mouse move to (533, 220)
+Mouse move to (544, 217)
+Mouse move to (573, 209)
+Mouse move to (586, 203)
+Mouse move to (600, 199)
+Mouse move to (615, 194)
+Mouse move to (635, 186)
+Mouse move to (658, 176)
+Mouse move to (687, 162)
+Mouse move to (699, 154)
+Mouse move to (713, 146)
+Mouse move to (724, 140)
+Mouse move to (733, 134)
+Mouse move to (739, 129)
+Mouse move to (746, 125)
+Mouse move to (752, 120)
+Mouse move to (758, 117)
+Mouse move to (764, 112)
+Mouse move to (768, 109)
+Mouse move to (777, 101)
+Mouse move to (781, 98)
+1 frame(s) dropped
+Mouse move to (785, 93)
+Mouse move to (785, 91)
+Mouse move to (787, 89)
+Mouse move to (788, 87)
+Mouse move to (788, 85)
+Mouse move to (788, 84)
+Mouse move to (789, 83)
+Mouse move to (789, 82)
+Mouse move to (790, 81)
+Mouse move to (790, 80)
+Mouse move to (790, 79)
+Mouse move to (791, 77)
+Mouse move to (791, 76)
+Mouse move to (791, 75)
+Mouse move to (792, 74)
+Mouse move to (793, 74)
+Mouse move to (794, 73)
+Mouse move to (795, 72)
+Mouse move to (796, 72)
+Mouse move to (797, 72)
+Mouse move to (798, 71)
+Mouse move to (798, 70)
+Mouse move to (799, 70)
+Mouse move to (799, 69)
