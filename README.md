@@ -18,3 +18,8 @@ If there are missing files, you might get error messages and cannot play the gam
 
 ### Below is a demo video :
 https://drive.google.com/file/d/1foIk1wzV9abhR5EPpLUzXxod4WT2wGNV/view?usp=sharing
+
+### .zip File Link :
+https://drive.google.com/file/d/1DbMgAHuIDTp2thLywAN2IkJTZEIfw-Fg/view?usp=sharing
+
+You can donwload and unzip this file, then click "Final_demo.exe" to enjoy the game!
